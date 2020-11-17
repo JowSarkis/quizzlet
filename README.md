@@ -1,16 +1,10 @@
 # quizzlet
+A simple quiz application build with Flutter. 
+You answer true or false to a series of quesiton, and you get the results when done.
 
-Quiz app made with Flutter
+### What I learned by developing this application: 
+- In-depth look into OOP in Dart.
+- How to create a list of widgets in Flutter.
+- How to modularise code.
+- How to depend on and use Flutter packages.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
